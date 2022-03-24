@@ -1,6 +1,6 @@
-Tudo sobre o mundo de dados 🎲 ! Aqui simplificamos o aprendizado em Business Intelligence 📊 , Data Science 🧮 e Machine Learning 🤖 !
+Tudo sobre o mundo de dados 🎲! Aqui simplificamos o aprendizado em Business Intelligence 📊, Data Science 🧮 e Machine Learning 🤖!
 
-No[Dados ao Cubo](https://dadosaocubo.com/) 🚀 , você encontra conteúdos completos sobre:
+No[Dados ao Cubo](https://dadosaocubo.com/) 🚀, você encontra conteúdos completos sobre:
 
 + [Ciência de Dados](https://dadosaocubo.com/category/blog/data-science/)
 + [Aprendizado de Máquina](https://dadosaocubo.com/category/blog/machine-learning/)
@@ -8,7 +8,7 @@ No[Dados ao Cubo](https://dadosaocubo.com/) 🚀 , você encontra conteúdos com
 + [Linguagem Python](https://dadosaocubo.com/category/blog/linguagens/python/)
 + [Matemática](https://dadosaocubo.com/category/blog/matematica/)
 
-Além de algumas séries TOPS 💻 !
+Além de algumas séries TOPS 💻!
 
 + [Business Intelligence – Do Problema ao Dashboard](https://dadosaocubo.com/introducao-ao-business-intelligence-do-problema-ao-dashboard/)
 + [API com Python, o céu é o limite](https://dadosaocubo.com/ingestao-de-dados-via-api-com-python/)
