@@ -15,7 +15,7 @@ Além de algumas séries TOPS 💻!
 + [API com Python, o céu é o limite](https://dadosaocubo.com/ingestao-de-dados-via-api-com-python/)
 + [Iniciação em Python – Começando do ZERO](https://dadosaocubo.com/linguagem-de-programacao-python-do-zero/)
 + [Criar CRUD com Streamlit e o PostgreSQL](https://dadosaocubo.com/criar-crud-com-streamlit-e-o-postgresql/)
-+ [Análise de Dados com Airbyte e Metabase]([https://dadosaocubo.com/analise-de-dados-com-airbyte-e-metabase)
++ [Análise de Dados com Airbyte e Metabase](https://dadosaocubo.com/analise-de-dados-com-airbyte-e-metabase)
 + [Bibliotecas Para Visualização de Dados em Python](https://dadosaocubo.com/bibliotecas-para-visualizacao-de-dados-em-python/)
 + [Bibliotecas Python Para de Análise de Dados](https://dadosaocubo.com/bibliotecas-python-para-de-analise-de-dados/)
 
